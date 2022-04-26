@@ -1,0 +1,26 @@
+{
+  "name": "haboll-vue-directives",
+  "version": "2.0.0",
+  "description": "directives for vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haboll/vue-directive.git"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "vue3",
+    "directive"
+  ],
+  "author": "haboll@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haboll/vue-directive/issues"
+  },
+  "homepage": "https://github.com/haboll/vue-directive#readme",
+  "dependencies": {}
+}
