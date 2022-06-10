@@ -22,5 +22,7 @@
     "url": "https://github.com/haboll/vue-directive/issues"
   },
   "homepage": "https://github.com/haboll/vue-directive#readme",
-  "dependencies": {}
+  "dependencies": {
+    "element-plus": "^2.1.11"
+  }
 }

@@ -1,10 +1,10 @@
 module.exports = {
-  name: "focus",
+  name: 'focus',
   bind: () => {},
   inserted: (el) => {
-    el && el.focus();
+    el && el.focus()
   },
   update: () => {},
   componentUpdated: () => {},
   unbind: () => {},
-};
+}
