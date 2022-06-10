@@ -4,3 +4,5 @@ directives for vue
 A
 
 B
+
+D
