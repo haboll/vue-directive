@@ -2,3 +2,5 @@
 directives for vue
 
 A
+
+B
